@@ -4,10 +4,9 @@
 [![Github](https://img.shields.io/github/followers/alexmarkowitsch?color=red&label=Follow%20on%20Github&logo=github&style=for-the-badge)](https://github.com/alexmarkowitsch/)
 
 ## Something about Me
-- Trainee @ Deutsche Telekom AG
-- Backend Developer in Java EE etc. (most of the time)
+- Softwareengineer @ Deutsche Telekom AG
+- Backend Developer (Java, Spring Boot etc.)
 - Also working on private projects with PHP, JS etc.
-- Currently learning Laravel+Vue & Spring Boot
 - Responsible for https://korayami.de
 
 ## Connect with me
