@@ -1,6 +1,7 @@
 ## Privet, I'm Alex 💪
 
 [![Website](https://img.shields.io/website?label=alexmarkowitsch.de&style=for-the-badge&url=https%3A%2F%2Falexmarkowitsch.de)](https://alexmarkowitsch.de)
+[![Website2](https://img.shields.io/website?label=korayami.de&style=for-the-badge&url=https%3A%2F%2Fkorayami.de)](https://korayami.de)
 [![Github](https://img.shields.io/github/followers/alexmarkowitsch?color=red&label=Follow%20on%20Github&logo=github&style=for-the-badge)](https://github.com/alexmarkowitsch/)
 
 ## Something about Me
